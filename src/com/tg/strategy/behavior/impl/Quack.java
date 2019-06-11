@@ -1,6 +1,6 @@
-package com.tg.oop.duck.behavior.impl;
+package com.tg.strategy.behavior.impl;
 
-import com.tg.oop.duck.behavior.QuackBehavior;
+import com.tg.strategy.behavior.QuackBehavior;
 
 public class Quack implements QuackBehavior{
     @Override

@@ -1,7 +1,7 @@
-package com.tg.oop.duck.entity;
+package com.tg.strategy.entity;
 
-import com.tg.oop.duck.behavior.impl.FlyWithWings;
-import com.tg.oop.duck.behavior.impl.Quack;
+import com.tg.strategy.behavior.impl.FlyWithWings;
+import com.tg.strategy.behavior.impl.Quack;
 
 public class MallardDuck extends Duck {
 

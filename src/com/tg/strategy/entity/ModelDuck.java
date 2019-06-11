@@ -1,4 +1,4 @@
-package com.tg.oop.duck.entity;
+package com.tg.strategy.entity;
 
 
 

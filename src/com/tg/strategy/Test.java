@@ -1,10 +1,10 @@
-package com.tg.oop.duck;
+package com.tg.strategy;
 
-import com.tg.oop.duck.behavior.impl.FlyRocketPowered;
-import com.tg.oop.duck.behavior.impl.Quack;
-import com.tg.oop.duck.entity.DuckCall;
-import com.tg.oop.duck.entity.MallardDuck;
-import com.tg.oop.duck.entity.ModelDuck;
+import com.tg.strategy.behavior.impl.FlyRocketPowered;
+import com.tg.strategy.behavior.impl.Quack;
+import com.tg.strategy.entity.DuckCall;
+import com.tg.strategy.entity.MallardDuck;
+import com.tg.strategy.entity.ModelDuck;
 
 public class Test {
     public static void main(String arg[]){

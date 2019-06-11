@@ -1,4 +1,4 @@
-package com.tg.oop.duck.behavior;
+package com.tg.strategy.behavior;
 
 public interface QuackBehavior {
     void quack();

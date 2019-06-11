@@ -1,6 +1,6 @@
-package com.tg.oop.duck.entity;
+package com.tg.strategy.entity;
 
-import com.tg.oop.duck.behavior.QuackBehavior;
+import com.tg.strategy.behavior.QuackBehavior;
 
 /***
  * 鸭鸣器
