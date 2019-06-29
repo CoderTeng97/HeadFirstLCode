@@ -1,0 +1,10 @@
+package com.tg.proxy.remote;
+
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
+public interface GumballMachineRemote extends Remote{
+    public int getCount() throws RemoteException;
+    public String getLocation();
+    public State getState();
+}
